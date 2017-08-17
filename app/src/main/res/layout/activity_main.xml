@@ -7,12 +7,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <dog.black.com.pwdedit.PwdEdt
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!" />
 
-    <dog.black.com.pwdedit.PwdEdt
+    <dog.black.com.mylibrary.PwdEdt
         app:isDrawBorderImg="true"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

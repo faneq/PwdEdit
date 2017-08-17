@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PwdEdit.iml" filepath="$PROJECT_DIR$/PwdEdit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PwdEditLib/PwdEditLib.iml" filepath="$PROJECT_DIR$/PwdEditLib/PwdEditLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

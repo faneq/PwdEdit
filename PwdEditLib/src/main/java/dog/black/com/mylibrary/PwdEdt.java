@@ -1,4 +1,4 @@
-package dog.black.com.pwdedit;
+package dog.black.com.mylibrary;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -24,7 +24,7 @@ import android.view.inputmethod.InputMethodManager;
 
 import java.util.ArrayList;
 
-import static dog.black.com.pwdedit.R.styleable.PswText;
+import static dog.black.com.mylibrary.R.styleable.PswText;
 
 
 public class PwdEdt extends View {
